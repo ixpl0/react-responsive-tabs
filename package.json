@@ -4,7 +4,6 @@
   "name": "react-responsive-tabs",
   "description": "React responsive tabs",
   "license": "MIT",
-  "main": "lib/index.js",
   "bugs": {
     "url": "https://github.com/maslianok/react-responsive-tabs/issues"
   },
