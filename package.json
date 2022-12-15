@@ -26,14 +26,14 @@
     "url": "git+https://github.com/maslianok/react-responsive-tabs.git"
   },
   "peerDependencies": {
-    "react": "^15.1.0 || ^16.0.0 || ^17.0.0",
-    "react-dom": "^15.1.0 || ^16.0.0 || ^17.0.0"
+    "react": "*",
+    "react-dom": "*"
+    "prop-types": "*",
+    "react-resize-detector": "*",
   },
   "dependencies": {
     "classnames": "^2.3.1",
     "lodash.throttle": "^4.1.1",
-    "prop-types": "^15.7.2",
-    "react-resize-detector": "^6.7.5"
   },
   "devDependencies": {
     "@babel/cli": "^7.14.8",
