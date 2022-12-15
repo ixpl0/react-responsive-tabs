@@ -27,13 +27,13 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-dom": "*"
+    "react-dom": "*",
     "prop-types": "*",
-    "react-resize-detector": "*",
+    "react-resize-detector": "*"
   },
   "dependencies": {
     "classnames": "^2.3.1",
-    "lodash.throttle": "^4.1.1",
+    "lodash.throttle": "^4.1.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.14.8",
